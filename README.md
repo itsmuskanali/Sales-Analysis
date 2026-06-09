@@ -133,7 +133,7 @@ The dataset is commonly used for business analytics and exploratory data analysi
 1. Clone this repository.
 
 ```bash
-git clone <[repository-link](https://github.com/muskanalidev/synent-task5-salesanalysis-muskanali-)>
+git clone <[repository-link](https://github.com/itsmuskanali/Sales-Analysis/tree/main)
 ```
 
 2. Install required libraries.
