@@ -112,7 +112,7 @@ The dataset is commonly used for business analytics and exploratory data analysi
 
 ## Screenshots
 
-### Revenue Trend Analysis
+### Revenue Trend Analysis ( of 4 years )
 
 <img width="1484" height="584" alt="Monthly Revenue Growth" src="https://github.com/user-attachments/assets/b8220a7f-4e32-4725-bfc0-86ea6c57d8a8" />
 
