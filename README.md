@@ -152,3 +152,5 @@ pip install -r requirements.txt
 
 This analysis explored sales, profitability, product performance, and regional trends within the Superstore dataset. The findings provide valuable insights that can help improve business performance and support informed decision-making.
 
+## Author
+Muskan Ali
